@@ -1,15 +1,27 @@
-<p>Hello there! 👋 I'm Dibyanshu Chauhan, currently in my second year of the BSC(IT) course. I have a keen interest in development, particularly in web development. Explore my GitHub repositories to get a glimpse of my work...</p>
-<h2>About Me</h2>
-<li>🎓 Currently pursuing BSC(IT) in my second year...</li>
-<li>💻 Interested in development, with a focus on web development...</li>
-<h2>GitHub Repositories</h2>
-<p>Check out some of my projects on my GitHub profile. Feel free to explore and provide feedback!...</p>
-<h2>Get In Touch</h2>
-<li>📧 Email: cdivyanshu98@gmail.com</li>
-<li>🔗 LinkedIn: www.linkedin.com/in/chauhan-divyanshu-011d</li>
-<h2>Collaboration</h2>
-<p>If you're interested in collaborating with me or have any project ideas, feel free to reach out! I'm always open to new opportunities and collaborations...</p>
-<h2>Fun Fact</h2>
-<p>A little fun fact about me: I wasn't initially in this domain. I used to be in. To know more about my previous work, feel free to contact me personally... </p>
-<br>
-<strong>Looking forward to connecting with you! 😊</strong>
+<h1 align="center">Hi 👋, I'm Dibyanshu Chauhan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I’m currently learning **React.js**
+
+- 👯 I’m looking to collaborate on **Front-end projects**
+
+- 🤝 I’m looking for help with **React based projects as I'm about to start it**
+
+- 💬 Ask me about **Javascript concepts**
+
+- 📫 How to reach me **cdivyanshu98@gmail.com**
+
+- 😊 familiar with **Java**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/divyanshc01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyanshc01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/chauhan-divyanshu-011d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chauhan-divyanshu-011d" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/devyanshu__011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/devyanshu__011/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/="> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="=" /></a></p><br><br>
