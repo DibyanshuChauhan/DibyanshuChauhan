@@ -1,8 +1,4 @@
 ### <div align="center">I'm Divyanshu, a front-end developer 👨‍💻 from India</div>  
-
-<div align="center">
-<img src="https://media.licdn.com/dms/image/D4D03AQHGfivVvmtVwA/profile-displayphoto-shrink_800_800/0/1688220517476?e=1717027200&v=beta&t=68_quN8gkkwjmpgLVXorsIhEZZMip9O8aE3yyVT8304" align="center" style="width: 400px" />
-</div>  
   
 
 - 🎓 Currently pursuing BSC(IT) in my second year...  
