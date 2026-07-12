@@ -93,7 +93,6 @@ Goal:
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DibyanshuChauhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DibyanshuChauhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -108,11 +107,6 @@ Goal:
 The snake animation is generated automatically and refreshed regularly through the workflow in this repository.
 
 View the interactive version: https://DibyanshuChauhan.github.io/DibyanshuChauhan/snake-web/
-
-<!-- Profile progress bar -->
-<div align="center">
-  <img src="assets/progress.svg" alt="Profile progress" />
-</div>
 
 <!-- Contribution screenshot (add `assets/contrib-screenshot.png` to show your snapshot here) -->
 <div align="center">
