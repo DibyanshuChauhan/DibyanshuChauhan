@@ -106,14 +106,6 @@ Goal:
 
 The snake animation is generated automatically and refreshed regularly through the workflow in this repository.
 
-View the interactive version: https://DibyanshuChauhan.github.io/DibyanshuChauhan/snake-web/
-
-<!-- Contribution screenshot (add `assets/contrib-screenshot.png` to show your snapshot here) -->
-<div align="center">
-  ![Contributions snapshot](assets/contrib-screenshot.png)
-</div>
-
-
 ---
 
 ## 🚧 Projects & Next Steps
