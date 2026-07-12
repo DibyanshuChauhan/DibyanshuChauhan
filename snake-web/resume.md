@@ -1,9 +1,8 @@
-
 <div align="center">
 
 # 👨‍💻 Divyanshu Chauhan
 
-### Full Stack Web Developer • MCA Student • MERN Stack Enthusiast
+### Full Stack Web Developer • MCA Student • MERN Stack
 
 📍 **Rishikesh, Uttarakhand, India** • 📧 **cdivyanshu98@gmail.com** • 📱 **+91 79064 40937**
 
@@ -17,11 +16,11 @@
 
 # Professional Summary
 
-Passionate **Full Stack Web Developer** currently pursuing a **Master of Computer Applications (MCA)** with hands-on experience designing and building modern web applications from concept to deployment.
+Full Stack Web Developer currently pursuing a **Master of Computer Applications (MCA)** with experience building responsive and scalable web applications using **React.js, Node.js, Express.js, MongoDB, MySQL, JavaScript (ES6+) and TypeScript**.
 
-Experienced in **React.js, Node.js, Express.js, MongoDB, MySQL, JavaScript (ES6+) and TypeScript**, with a strong focus on scalable architecture, responsive user interfaces, REST APIs and clean code practices.
+Hands-on experience developing user interfaces, REST APIs, authentication workflows, admin dashboards and data visualization features. Familiar with the complete software development lifecycle, including application design, implementation, testing, version control and deployment.
 
-Seeking opportunities to contribute as a **Full Stack Web Developer** where I can solve real-world problems while continuously learning modern technologies.
+Seeking opportunities to contribute to engineering teams by developing maintainable software, improving user experience and delivering production-ready web applications.
 
 ---
 
@@ -29,33 +28,34 @@ Seeking opportunities to contribute as a **Full Stack Web Developer** where I ca
 
 | Category | Technologies |
 |-----------|--------------|
-| 🎨 Frontend | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express.js, REST APIs |
-| 🗄️ Database | MongoDB, MySQL |
-| 💻 Programming | Java, Python, SQL |
-| 🧠 Core CS | DSA, OOP, DBMS, Operating Systems, Computer Networks |
-| 🛠 Tools | Git, GitHub, VS Code, Postman |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
+| **Database** | MongoDB, MySQL |
+| **Programming** | Java, Python, SQL |
+| **Core CS** | Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks |
+| **Tools** | Git, GitHub, VS Code, Postman, Vercel |
 
 ---
 
-# Featured Project
+# Projects
 
-## ExpenseX — Personal Finance & Enterprise Admin Ecosystem
+## ExpenseX — Personal Finance & Admin Dashboard
 
 **Duration:** January 2026 – March 2026
 
 **Live Demo:** https://expense-x-seven.vercel.app/
 
-### Highlights
+### Responsibilities & Contributions
 
-- Engineered a financial management platform supporting **26 expense categories**.
-- Implemented asynchronous reporting modules for weekly and monthly analytics.
-- Integrated **Chart.js** dashboards for financial insights.
-- Developed an admin panel for user management and operational workflows.
-- Implemented local storage persistence, notifications using React Toastify and animations with Framer Motion.
-- Built responsive UI with React and Tailwind CSS.
+- Designed and developed a financial management application supporting **26 expense categories** for organized transaction tracking.
+- Implemented weekly and monthly reporting modules using asynchronous data processing.
+- Integrated **Chart.js** dashboards for budget tracking and expense visualization.
+- Built an administrative dashboard supporting user management and operational workflows.
+- Implemented client-side data persistence using Local Storage.
+- Integrated React Toastify and Framer Motion to improve user feedback and interface interactions.
+- Developed reusable React components to improve maintainability and consistency across the application.
 
-**Tech Stack**
+**Technologies**
 
 `React.js` • `JavaScript` • `Tailwind CSS` • `Chart.js` • `Framer Motion`
 
@@ -64,8 +64,10 @@ Seeking opportunities to contribute as a **Full Stack Web Developer** where I ca
 # Education
 
 ## IMS Unison University
-**Master of Computer Applications (MCA)**  
-2025 – 2027 *(Pursuing)*
+
+**Master of Computer Applications (MCA)**
+
+2025 – Present
 
 **CGPA:** **8.4 / 10**
 
@@ -85,26 +87,26 @@ Seeking opportunities to contribute as a **Full Stack Web Developer** where I ca
 
 - Software Engineering
 - Data Structures & Algorithms
+- Object-Oriented Programming
 - Database Management Systems
 - Operating Systems
 - Computer Networks
-- Object-Oriented Programming
 
 ---
 
 # Languages
 
-- 🇮🇳 Hindi — Native
-- 🇬🇧 English — Professional Working Proficiency
+- English — Professional Working Proficiency
+- Hindi — Native
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### Contact
 
 [![Email](https://img.shields.io/badge/Email-cdivyanshu98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdivyanshu98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu011/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/DibyanshuChauhan)
+[![GitHub](https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github)](https://github.com/DibyanshuChauhan)
 
 </div>
