@@ -16,6 +16,9 @@
 
 ---
 
+- <img src="https://visitor-badge.laobi.icu/badge?page_id=DibyanshuChauhan.DibyanshuChauhan" alt="profile views" />
+
+
 ## ✨ About Me
 
 I’m Divyanshu Chauhan, a full-stack web developer focused on building reliable, scalable web applications with clean architecture and practical business value. My work centers on translating product requirements into working features, improving user experience, and developing systems that are maintainable over time.
@@ -62,12 +65,12 @@ Goal:
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -77,7 +80,7 @@ Goal:
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ### 💻 Languages
@@ -103,6 +106,19 @@ Goal:
 </div>
 
 The snake animation is generated automatically and refreshed regularly through the workflow in this repository.
+
+View the interactive version: https://DibyanshuChauhan.github.io/DibyanshuChauhan/snake-web/
+
+<!-- Profile progress bar -->
+<div align="center">
+  <img src="assets/progress.svg" alt="Profile progress" />
+</div>
+
+<!-- Contribution screenshot (add `assets/contrib-screenshot.png` to show your snapshot here) -->
+<div align="center">
+  ![Contributions snapshot](assets/contrib-screenshot.png)
+</div>
+
 
 ---
 

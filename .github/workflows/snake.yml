@@ -32,10 +32,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to output branch
+      - name: Build site folder
+        run: |
+          mkdir -p site
+          cp -r dist site/
+          cp -r snake-web site/
+
+      - name: Deploy site to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+          publish_dir: ./site
+          publish_branch: gh-pages
+          commit_message: "Publish interactive snake + assets [skip ci]"

@@ -1,0 +1,75 @@
+:root {
+    --bg: #0f1724;
+    --card: #0b1220;
+    --accent: #10b981
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Inter, system-ui, Arial, Helvetica, sans-serif
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(180deg, #071023 0%, #071a2a 100%);
+    color: #e6eef8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh
+}
+
+main {
+    width: 520px;
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(3, 7, 18, 0.6);
+    box-shadow: 0 6px 20px rgba(2, 6, 23, 0.6)
+}
+
+h1 {
+    margin: 0 0 10px;
+    font-size: 20px
+}
+
+.game-wrap {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start
+}
+
+canvas {
+    background: #021225;
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.04)
+}
+
+.controls {
+    display: flex;
+    flex-direction: column;
+    gap: 8px
+}
+
+button {
+    background: var(--accent);
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    color: #022;
+    cursor: pointer
+}
+
+label {
+    font-size: 13px;
+    color: #bcd8ff
+}
+
+.note {
+    font-size: 13px;
+    color: #9fb4d9;
+    margin-top: 12px
+}
+
+a {
+    color: #67e8f9
+}
