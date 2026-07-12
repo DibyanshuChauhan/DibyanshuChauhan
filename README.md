@@ -8,6 +8,12 @@
 
 <br/>
 
+<a href="snake-web/resume.md" download>
+  <img src="https://img.shields.io/badge/Resume-View%20%26%20Download-0f766e?style=for-the-badge&logo=readme" alt="View Resume" />
+</a>
+
+<br/>
+
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff6b6b?style=for-the-badge&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20MongoDB-4F46E5?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-22C55E?style=for-the-badge" />
