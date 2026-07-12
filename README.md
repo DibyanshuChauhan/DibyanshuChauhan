@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="snake-web/resume.md" download>
+<a href="snake-web/resume.html">
   <img src="https://img.shields.io/badge/Resume-View%20%26%20Download-0f766e?style=for-the-badge&logo=readme" alt="View Resume" />
 </a>
 
