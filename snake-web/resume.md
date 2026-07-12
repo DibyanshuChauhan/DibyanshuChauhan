@@ -1,49 +1,110 @@
-# DIBYANSHU CHAUHAN
 
-Rishikesh, Uttarakhand | +91 79064 40937 | cdivyanshu98@gmail.com  
-LinkedIn: https://www.linkedin.com/in/divyanshu011/  
-GitHub: https://github.com/DibyanshuChauhan
+<div align="center">
 
-## PROFESSIONAL SUMMARY
+# 👨‍💻 Divyanshu Chauhan
 
-MCA student with practical experience in engineering scalable, responsive web applications across the full software development lifecycle. Proficient in JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, and MySQL. Skilled in implementing data-driven dashboard logic, architecting admin operations pipelines, and writing optimized data extraction scripts to deliver polished user experiences.
+### Full Stack Web Developer • MCA Student • MERN Stack Enthusiast
 
-## TECHNICAL SKILLS
+📍 **Rishikesh, Uttarakhand, India** • 📧 **cdivyanshu98@gmail.com** • 📱 **+91 79064 40937**
 
-- Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Tailwind CSS
-- Backend: Node.js, Express.js, RESTful APIs
-- Databases: MongoDB, MySQL
-- Programming Languages: Java, Python, SQL
-- Core CS: DSA, OOP, DBMS, Operating Systems, Computer Networks
-- Tools: Git, GitHub, VS Code, Postman
+[![GitHub](https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github)](https://github.com/DibyanshuChauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshu%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu011/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge)](#)
 
-## TECHNICAL PROJECTS
+</div>
 
-### ExpenseX – Front-end Personal Finance & Enterprise Admin Ecosystem
-Academic Project | Live Project: https://expense-x-seven.vercel.app/ | January 2026 – March 2026
+---
 
-- Engineered a financial application integrating a 26-category interactive management engine to sort, clean, and map transaction inputs.
-- Programmed asynchronous data extraction modules for isolated date-based weekly and monthly reports.
-- Integrated Chart.js and react-chartjs-2 to build real-time budget tracking dashboards.
-- Built an admin dashboard supporting multi-user oversight, registration pipelines, and reset routines.
-- Implemented local storage persistence and interactive notifications using React Toastify and Framer Motion.
+# Professional Summary
 
-## EDUCATION
+Passionate **Full Stack Web Developer** currently pursuing a **Master of Computer Applications (MCA)** with hands-on experience designing and building modern web applications from concept to deployment.
 
-### IMS Unison University
-Dehradun, Uttarakhand, India | Master of Computer Applications (MCA) | 2025 – 2027 (Pursuing)
+Experienced in **React.js, Node.js, Express.js, MongoDB, MySQL, JavaScript (ES6+) and TypeScript**, with a strong focus on scalable architecture, responsive user interfaces, REST APIs and clean code practices.
 
-- Current CGPA: 8.4 / 10.0
+Seeking opportunities to contribute as a **Full Stack Web Developer** where I can solve real-world problems while continuously learning modern technologies.
 
-### HNB Garhwal University
-Srinagar, Uttarakhand, India | Bachelor of Science in Information Technology (BSc-IT) | 2022 – 2025
+---
 
-- CGPA: 6.7 / 10.0
+# Technical Skills
 
-## LEGAL COURSEWORK
+| Category | Technologies |
+|-----------|--------------|
+| 🎨 Frontend | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Tailwind CSS |
+| ⚙️ Backend | Node.js, Express.js, REST APIs |
+| 🗄️ Database | MongoDB, MySQL |
+| 💻 Programming | Java, Python, SQL |
+| 🧠 Core CS | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+| 🛠 Tools | Git, GitHub, VS Code, Postman |
 
-Software Engineering Methodology • Data Structures and Algorithms • Database Management Systems • Computer Networks & Security
+---
 
-## LANGUAGES
+# Featured Project
 
-English (Professional Working Proficiency) • Hindi (Native)
+## ExpenseX — Personal Finance & Enterprise Admin Ecosystem
+
+**Duration:** January 2026 – March 2026
+
+**Live Demo:** https://expense-x-seven.vercel.app/
+
+### Highlights
+
+- Engineered a financial management platform supporting **26 expense categories**.
+- Implemented asynchronous reporting modules for weekly and monthly analytics.
+- Integrated **Chart.js** dashboards for financial insights.
+- Developed an admin panel for user management and operational workflows.
+- Implemented local storage persistence, notifications using React Toastify and animations with Framer Motion.
+- Built responsive UI with React and Tailwind CSS.
+
+**Tech Stack**
+
+`React.js` • `JavaScript` • `Tailwind CSS` • `Chart.js` • `Framer Motion`
+
+---
+
+# Education
+
+## IMS Unison University
+**Master of Computer Applications (MCA)**  
+2025 – 2027 *(Pursuing)*
+
+**CGPA:** **8.4 / 10**
+
+---
+
+## HNB Garhwal University
+
+**Bachelor of Science in Information Technology (BSc-IT)**
+
+2022 – 2025
+
+**CGPA:** **6.7 / 10**
+
+---
+
+# Relevant Coursework
+
+- Software Engineering
+- Data Structures & Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Object-Oriented Programming
+
+---
+
+# Languages
+
+- 🇮🇳 Hindi — Native
+- 🇬🇧 English — Professional Working Proficiency
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-cdivyanshu98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdivyanshu98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu011/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/DibyanshuChauhan)
+
+</div>
