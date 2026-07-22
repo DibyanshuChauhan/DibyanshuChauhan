@@ -183,10 +183,23 @@ Although my primary focus is Full Stack Development, I enjoy enhancing applicati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DibyanshuChauhan/DibyanshuChauhan/output/github-snake.svg" alt="Contribution Snake"/>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DibyanshuChauhan/DibyanshuChauhan/gh-pages/dist/github-snake-dark.svg"/>
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DibyanshuChauhan/DibyanshuChauhan/gh-pages/dist/github-snake.svg"/>
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/DibyanshuChauhan/DibyanshuChauhan/gh-pages/dist/github-snake-dark.svg"/>
+
+</picture>
 
 </div>
-
 ---
 
 # 🤝 Open Source
