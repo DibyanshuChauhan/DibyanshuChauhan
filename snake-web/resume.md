@@ -1,112 +1,100 @@
 <div align="center">
 
-# 👨‍💻 Divyanshu Chauhan
+# DIBYANSHU CHAUHAN
 
-### Full Stack Web Developer • MCA Student • MERN Stack
+**Full Stack Developer · MCA Student**
 
-📍 **Rishikesh, Uttarakhand, India** • 📧 **cdivyanshu98@gmail.com** • 📱 **+91 79064 40937**
+Rishikesh, Uttarakhand, India · +91 79064 40937 · [cdivyanshu98@gmail.com](mailto:cdivyanshu98@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github)](https://github.com/DibyanshuChauhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshu%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu011/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/DibyanshuChauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshu%20Chauhan-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/divyanshu011/)
 
 </div>
 
 ---
 
-# Professional Summary
+## PROFESSIONAL SUMMARY
 
-Full Stack Web Developer currently pursuing a **Master of Computer Applications (MCA)** with experience building responsive and scalable web applications using **React.js, Node.js, Express.js, MongoDB, MySQL, JavaScript (ES6+) and TypeScript**.
-
-Hands-on experience developing user interfaces, REST APIs, authentication workflows, admin dashboards and data visualization features. Familiar with the complete software development lifecycle, including application design, implementation, testing, version control and deployment.
-
-Seeking opportunities to contribute to engineering teams by developing maintainable software, improving user experience and delivering production-ready web applications.
+Computer Applications postgraduate with a **CGPA of 8.33/10** and hands-on experience building full-stack JavaScript applications using **React.js, Node.js, Express.js, and MongoDB**. Experienced in REST API development, JWT authentication, database design, request validation, and integrating **LLM tools such as LangChain** into functional applications. Strong foundation in Data Structures, OOP, DBMS, and software development, with experience taking projects from architecture and implementation to a responsive user interface.
 
 ---
 
-# Technical Skills
+## TECHNICAL SKILLS
 
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
-| **Database** | MongoDB, MySQL |
-| **Programming** | Java, Python, SQL |
-| **Core CS** | Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks |
-| **Tools** | Git, GitHub, VS Code, Postman, Vercel |
-
----
-
-# Projects
-
-## ExpenseX — Personal Finance & Admin Dashboard
-
-**Duration:** January 2026 – March 2026
-
-**Live Demo:** https://expense-x-seven.vercel.app/
-
-### Responsibilities & Contributions
-
-- Designed and developed a financial management application supporting **26 expense categories** for organized transaction tracking.
-- Implemented weekly and monthly reporting modules using asynchronous data processing.
-- Integrated **Chart.js** dashboards for budget tracking and expense visualization.
-- Built an administrative dashboard supporting user management and operational workflows.
-- Implemented client-side data persistence using Local Storage.
-- Integrated React Toastify and Framer Motion to improve user feedback and interface interactions.
-- Developed reusable React components to improve maintainability and consistency across the application.
-
-**Technologies**
-
-`React.js` • `JavaScript` • `Tailwind CSS` • `Chart.js` • `Framer Motion`
+| Category      | Technologies                                                                  |
+| ------------- | ----------------------------------------------------------------------------- |
+| **Languages** | JavaScript (ES6+), TypeScript, Java, Python, SQL                              |
+| **Frontend**  | React.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS                            |
+| **Backend**   | Node.js, Express.js, REST APIs, JWT, Bcrypt                                   |
+| **Databases** | MongoDB, Mongoose, MySQL                                                      |
+| **AI / LLM**  | LangChain, Tavily API, Prompt Engineering                                     |
+| **Tools**     | Git, GitHub, Postman, VS Code, Zod                                            |
+| **Core CS**   | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 
 ---
 
-# Education
+## PROJECTS
 
-## IMS Unison University
+### AI-Powered Web Search & Email Assistant
+
+**React.js · Redux Toolkit · Node.js · Express.js · MongoDB · LangChain · Tavily API · Nodemailer · JWT · Bcrypt · Zod**
+
+* Built a full-stack MERN application combining **LangChain** with the Tavily search API to provide current web-based answers for time-sensitive queries.
+* Implemented **JWT authentication and Bcrypt-based security**, with email verification through Nodemailer.
+* Developed an automated email-generation workflow that uses live web results to generate relevant messages and send them directly from the application.
+* Designed and validated RESTful APIs using **Zod schemas** with centralized error handling for predictable request processing.
+* Managed complex asynchronous frontend state using **Redux Toolkit** to maintain a responsive user experience.
+
+---
+
+## ACHIEVEMENTS
+
+### NASA Space Apps Challenge - Hackathon Participant
+
+* Collaborated in a **4–5 member cross-functional team** to develop an environmental solution using Earth satellite data and geospatial analysis.
+* Built a prototype recommendation engine for suggesting **region-specific plant species** based on geographic and environmental data.
+* Designed the solution to identify suitable tree-plantation locations while supporting sustainable urban development.
+
+---
+
+## EDUCATION
+
+### IMS Unison University - Dehradun, Uttarakhand
 
 **Master of Computer Applications (MCA)**
+2025 – 2027 · **CGPA: 8.33 / 10.0**
 
-2025 – Present
-
-**CGPA:** **8.4 / 10**
-
----
-
-## HNB Garhwal University
+### HNB Garhwal University - Srinagar, Uttarakhand
 
 **Bachelor of Science in Information Technology (BSc-IT)**
-
-2022 – 2025
-
-**CGPA:** **6.7 / 10**
+2022 – 2025 · **CGPA: 6.66 / 10.0**
 
 ---
 
-# Relevant Coursework
+## LEADERSHIP & INVOLVEMENT
 
-- Software Engineering
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+**Training & Placement Coordinator** · School of Computer Applications, IMS Unison University
+
+* Coordinated campus recruitment activities, placement drives, and technical workshops for department students.
+
+**Core Member, Discipline Committee** · IMS Unison University
+
+* Assisted with event logistics and discipline management across university-wide and inter-university programs.
 
 ---
 
-# Languages
+## LANGUAGES
 
-- English — Professional Working Proficiency
-- Hindi — Native
+**English** - Professional Working Proficiency · **Hindi** - Native
 
 ---
 
 <div align="center">
 
-### Contact
-
-[![Email](https://img.shields.io/badge/Email-cdivyanshu98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdivyanshu98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu011/)
-[![GitHub](https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github)](https://github.com/DibyanshuChauhan)
+[![GitHub](https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/DibyanshuChauhan)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/divyanshu011/)
+ 
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:cdivyanshu98@gmail.com)
 
 </div>
