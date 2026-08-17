@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/RESUME.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-0F766E?style=for-the-badge&logo=readme&logoColor=white"></a><a href="https://github.com/DibyanshuChauhan"><img src="https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/divyanshu011/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:cdivyanshu98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/RESUME.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-0F766E?style=for-the-badge&logo=readme&logoColor=white"></a><a href="https://github.com/DibyanshuChauhan/DibyanshuChauhan/raw/main/RESUME.docx"><img src="https://img.shields.io/badge/Resume-Download_DOCX-1E40AF?style=for-the-badge&logo=microsoftword&logoColor=white"></a><a href="https://github.com/DibyanshuChauhan"><img src="https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/divyanshu011/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:cdivyanshu98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br><br>
 
