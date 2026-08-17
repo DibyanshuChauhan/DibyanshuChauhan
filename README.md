@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-0F766E?style=for-the-badge&logo=readme&logoColor=white"></a><a href="https://github.com/DibyanshuChauhan"><img src="https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/divyanshu011/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:cdivyanshu98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/RESUME.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-0F766E?style=for-the-badge&logo=readme&logoColor=white"></a><a href="https://github.com/DibyanshuChauhan"><img src="https://img.shields.io/badge/GitHub-DibyanshuChauhan-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.linkedin.com/in/divyanshu011/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:cdivyanshu98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <br><br>
 
@@ -54,7 +54,7 @@ User -> React + Redux -> REST API -> LangChain <-> Tavily (live search)
 
 Wiring LangChain to a search API was the easy part. The harder part was making the rest of the system boring - predictable auth, validated input, errors that fail loudly instead of silently. That is the part I actually enjoyed building.
 
-Full stack details and feature breakdown - [resume](https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/assets/resume.pdf) - [repository](https://github.com/DibyanshuChauhan/Perplexity)
+Full stack details and feature breakdown - [resume](https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/RESUME.pdf) - [repository](https://github.com/DibyanshuChauhan/Perplexity)
 
 ---
 
@@ -82,7 +82,7 @@ Full stack details and feature breakdown - [resume](https://github.com/Dibyanshu
 
 <div align="center">
 
-Hackathons, leadership roles, and education are in the **[resume](https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/assets/resume.pdf)** - this page is the story behind the bullet points.
+Hackathons, leadership roles, and education are in the **[resume](https://github.com/DibyanshuChauhan/DibyanshuChauhan/blob/main/RESUME.pdf)** - this page is the story behind the bullet points.
 
 <br>
 
